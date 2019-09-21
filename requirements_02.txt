@@ -1,0 +1,4 @@
+flask
+flasgger
+scikit-learn==0.20.2
+mod_wsgi

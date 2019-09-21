@@ -1,3 +1,0 @@
-flask
-flasgger
-scikit-learn==0.20.2
