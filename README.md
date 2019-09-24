@@ -2,6 +2,10 @@
 
 This is my attempt to learn model deployment using Docker Container in production environment.
 
-I created a basic ML model and used Flask to expose it as a microservice API. 
+## Flow:
 
-Then used docker container to to host the API on apache web server to the end users.
+- Create a ML model that need to deployed in production.
+
+- Use flask to expose the model as a microservice.
+
+- Deploy the microservice using a docker container on apache/nginx web server to allow access to end users.
